@@ -33,6 +33,3 @@ Este projeto é um sistema simples de **cadastro de clientes** desenvolvido em *
 git clone https://github.com/matrix0377/cad_clientes_csharp.git
 cd cad_clientes_csharp
 
-
-  
-
